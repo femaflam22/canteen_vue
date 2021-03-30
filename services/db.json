@@ -1,0 +1,617 @@
+{
+  "breakfast_prev": [
+    {
+      "id": 1,
+      "kode": "M-01",
+      "name": "Avocado Toast 2pcs",
+      "price": 35000,
+      "is_ready": true,
+      "image": "bf_1.png"
+    },
+    {
+      "id": 2,
+      "kode": "M-02",
+      "name": "Avocado Toast with Egg",
+      "price": 30000,
+      "is_ready": true,
+      "image": "bf_2.png"
+    },
+    {
+      "id": 3,
+      "kode": "M-03",
+      "name": "Oatmeal with Fruit",
+      "price": 25000,
+      "is_ready": true,
+      "image": "bf_3.png"
+    },
+    {
+      "id": 4,
+      "kode": "M-04",
+      "name": "Oatmeal with Fruit 2",
+      "price": 25000,
+      "is_ready": true,
+      "image": "bf_4.png"
+    }
+  ],
+  "lunch_prev": [
+    {
+      "id": 11,
+      "kode": "M-11",
+      "name": "Korean Set 1",
+      "price": 40000,
+      "is_ready": true,
+      "image": "lc_1.png"
+    },
+    {
+      "id": 12,
+      "kode": "M-12",
+      "name": "Korean Set 2",
+      "price": 40000,
+      "is_ready": true,
+      "image": "lc_2.png"
+    },
+    {
+      "id": 13,
+      "kode": "M-13",
+      "name": "Box Set 1",
+      "price": 25000,
+      "is_ready": true,
+      "image": "lc_3.png"
+    },
+    {
+      "id": 14,
+      "kode": "M-14",
+      "name": "Box Set 2",
+      "price": 25000,
+      "is_ready": true,
+      "image": "lc_4.png"
+    }
+  ],
+  "drink_prev": [
+    {
+      "id": 21,
+      "kode": "M-21",
+      "name": "Espresso Coffe",
+      "price": 10000,
+      "is_ready": true,
+      "image": "d_espresso.png"
+    },
+    {
+      "id": 22,
+      "kode": "M-22",
+      "name": "Milk",
+      "price": 5000,
+      "is_ready": true,
+      "image": "d_milk.png"
+    },
+    {
+      "id": 23,
+      "kode": "M-23",
+      "name": "Infus Water",
+      "price": 8000,
+      "is_ready": true,
+      "image": "d_infus.png"
+    },
+    {
+      "id": 24,
+      "kode": "M-24",
+      "name": "Orange Juice",
+      "price": 5000,
+      "is_ready": true,
+      "image": "d_juice.png"
+    }
+  ],
+  "breakfast": [
+    {
+      "id": 1,
+      "kode": "M-01",
+      "name": "Avocado Toast 2pcs",
+      "price": 35000,
+      "is_ready": true,
+      "image": "bf_1.png"
+    },
+    {
+      "id": 2,
+      "kode": "M-02",
+      "name": "Avocado Toast with Egg",
+      "price": 30000,
+      "is_ready": true,
+      "image": "bf_2.png"
+    },
+    {
+      "id": 3,
+      "kode": "M-03",
+      "name": "Oatmeal with Fruit",
+      "price": 25000,
+      "is_ready": true,
+      "image": "bf_3.png"
+    },
+    {
+      "id": 4,
+      "kode": "M-04",
+      "name": "Oatmeal with Fruit 2",
+      "price": 25000,
+      "is_ready": true,
+      "image": "bf_4.png"
+    },
+    {
+      "id": 5,
+      "kode": "M-05",
+      "name": "Pancake",
+      "price": 20000,
+      "is_ready": true,
+      "image": "bf_5.png"
+    },
+    {
+      "id": 6,
+      "kode": "M-06",
+      "name": "Onigiri 5pcs",
+      "price": 25000,
+      "is_ready": true,
+      "image": "bf_6.png"
+    },
+    {
+      "id": 7,
+      "kode": "Rice Egg",
+      "name": "with Fruit",
+      "price": 20000,
+      "is_ready": true,
+      "image": "bf_7.png"
+    },
+    {
+      "id": 8,
+      "kode": "M-08",
+      "name": "Sereal",
+      "price": 20000,
+      "is_ready": true,
+      "image": "bf_8.png"
+    },
+    {
+      "id": 9,
+      "kode": "M-09",
+      "name": "Cheese Pancake",
+      "price": 30000,
+      "is_ready": true,
+      "image": "bf_9.png"
+    },
+    {
+      "id": 10,
+      "kode": "M-10",
+      "name": "Bread",
+      "price": 15000,
+      "is_ready": true,
+      "image": "bf_10.png"
+    }
+  ],
+  "lunch": [
+    {
+      "id": 11,
+      "kode": "M-11",
+      "name": "Korean Set 1",
+      "price": 40000,
+      "is_ready": true,
+      "image": "lc_1.png"
+    },
+    {
+      "id": 12,
+      "kode": "M-12",
+      "name": "Korean Set 2",
+      "price": 40000,
+      "is_ready": true,
+      "image": "lc_2.png"
+    },
+    {
+      "id": 13,
+      "kode": "M-13",
+      "name": "Box Set 1",
+      "price": 25000,
+      "is_ready": true,
+      "image": "lc_3.png"
+    },
+    {
+      "id": 14,
+      "kode": "M-14",
+      "name": "Box Set 2",
+      "price": 25000,
+      "is_ready": true,
+      "image": "lc_4.png"
+    },
+    {
+      "id": 15,
+      "kode": "M-15",
+      "name": "Tteokbokki",
+      "price": 25000,
+      "is_ready": true,
+      "image": "lc_5.png"
+    },
+    {
+      "id": 16,
+      "kode": "M-16",
+      "name": "Sushi",
+      "price": 45000,
+      "is_ready": true,
+      "image": "lc_6.png"
+    },
+    {
+      "id": 17,
+      "kode": "M-17",
+      "name": "Tteokbokki with Hotang",
+      "price": 30000,
+      "is_ready": true,
+      "image": "lc_7.png"
+    },
+    {
+      "id": 18,
+      "kode": "M-18",
+      "name": "Chicken Katsu",
+      "price": 35000,
+      "is_ready": true,
+      "image": "lc_8.png"
+    },
+    {
+      "id": 19,
+      "kode": "M-19",
+      "name": "Curry Katsu",
+      "price": 25000,
+      "is_ready": true,
+      "image": "lc_9.png"
+    },
+    {
+      "id": 20,
+      "kode": "M-20",
+      "name": "Vegetarian Set",
+      "price": 30000,
+      "is_ready": true,
+      "image": "lc_10.png"
+    }
+  ],
+  "drink": [
+    {
+      "id": 21,
+      "kode": "M-21",
+      "name": "Espresso Coffe",
+      "price": 10000,
+      "is_ready": true,
+      "image": "d_espresso.png"
+    },
+    {
+      "id": 22,
+      "kode": "M-22",
+      "name": "Milk",
+      "price": 5000,
+      "is_ready": true,
+      "image": "d_milk.png"
+    },
+    {
+      "id": 23,
+      "kode": "M-23",
+      "name": "Infus Water",
+      "price": 8000,
+      "is_ready": true,
+      "image": "d_infus.png"
+    },
+    {
+      "id": 24,
+      "kode": "M-24",
+      "name": "Orange Juice",
+      "price": 5000,
+      "is_ready": true,
+      "image": "d_juice.png"
+    },
+    {
+      "id": 25,
+      "kode": "M-25",
+      "name": "Latte Coffe",
+      "price": 15000,
+      "is_ready": true,
+      "image": "d_latte.png"
+    },
+    {
+      "id": 26,
+      "kode": "M-26",
+      "name": "Lemon Tea",
+      "price": 5000,
+      "is_ready": true,
+      "image": "d_lemon.png"
+    },
+    {
+      "id": 27,
+      "kode": "M-27",
+      "name": "Matcha",
+      "price": 8000,
+      "is_ready": true,
+      "image": "d_matcha.png"
+    },
+    {
+      "id": 28,
+      "kode": "M-28",
+      "name": "Ice Cream",
+      "price": 10000,
+      "is_ready": true,
+      "image": "d_ice.png"
+    },
+    {
+      "id": 29,
+      "kode": "M-29",
+      "name": "Milk Tea",
+      "price": 8000,
+      "is_ready": true,
+      "image": "d_milkTea.png"
+    },
+    {
+      "id": 30,
+      "kode": "M-30",
+      "name": "Yogurt",
+      "price": 5000,
+      "is_ready": true,
+      "image": "d_yogurt.png"
+    }
+  ],
+  "all_product": [
+    {
+      "id": 1,
+      "kode": "M-01",
+      "name": "Avocado Toast 2pcs",
+      "price": 35000,
+      "is_ready": true,
+      "image": "bf_1.png"
+    },
+    {
+      "id": 2,
+      "kode": "M-02",
+      "name": "Avocado Toast with Egg",
+      "price": 30000,
+      "is_ready": true,
+      "image": "bf_2.png"
+    },
+    {
+      "id": 3,
+      "kode": "M-03",
+      "name": "Oatmeal with Fruit",
+      "price": 25000,
+      "is_ready": true,
+      "image": "bf_3.png"
+    },
+    {
+      "id": 4,
+      "kode": "M-04",
+      "name": "Oatmeal with Fruit 2",
+      "price": 25000,
+      "is_ready": true,
+      "image": "bf_4.png"
+    },
+    {
+      "id": 5,
+      "kode": "M-05",
+      "name": "Pancake",
+      "price": 20000,
+      "is_ready": true,
+      "image": "bf_5.png"
+    },
+    {
+      "id": 6,
+      "kode": "M-06",
+      "name": "Onigiri 5pcs",
+      "price": 25000,
+      "is_ready": true,
+      "image": "bf_6.png"
+    },
+    {
+      "id": 7,
+      "kode": "Rice Egg",
+      "name": "with Fruit",
+      "price": 20000,
+      "is_ready": true,
+      "image": "bf_7.png"
+    },
+    {
+      "id": 8,
+      "kode": "M-08",
+      "name": "Sereal",
+      "price": 20000,
+      "is_ready": true,
+      "image": "bf_8.png"
+    },
+    {
+      "id": 9,
+      "kode": "M-09",
+      "name": "Cheese Pancake",
+      "price": 30000,
+      "is_ready": true,
+      "image": "bf_9.png"
+    },
+    {
+      "id": 10,
+      "kode": "M-10",
+      "name": "Bread",
+      "price": 15000,
+      "is_ready": true,
+      "image": "bf_10.png"
+    },
+    {
+      "id": 11,
+      "kode": "M-11",
+      "name": "Korean Set 1",
+      "price": 40000,
+      "is_ready": true,
+      "image": "lc_1.png"
+    },
+    {
+      "id": 12,
+      "kode": "M-12",
+      "name": "Korean Set 2",
+      "price": 40000,
+      "is_ready": true,
+      "image": "lc_2.png"
+    },
+    {
+      "id": 13,
+      "kode": "M-13",
+      "name": "Box Set 1",
+      "price": 25000,
+      "is_ready": true,
+      "image": "lc_3.png"
+    },
+    {
+      "id": 14,
+      "kode": "M-14",
+      "name": "Box Set 2",
+      "price": 25000,
+      "is_ready": true,
+      "image": "lc_4.png"
+    },
+    {
+      "id": 15,
+      "kode": "M-15",
+      "name": "Tteokbokki",
+      "price": 25000,
+      "is_ready": true,
+      "image": "lc_5.png"
+    },
+    {
+      "id": 16,
+      "kode": "M-16",
+      "name": "Sushi",
+      "price": 45000,
+      "is_ready": true,
+      "image": "lc_6.png"
+    },
+    {
+      "id": 17,
+      "kode": "M-17",
+      "name": "Tteokbokki with Hotang",
+      "price": 30000,
+      "is_ready": true,
+      "image": "lc_7.png"
+    },
+    {
+      "id": 18,
+      "kode": "M-18",
+      "name": "Chicken Katsu",
+      "price": 35000,
+      "is_ready": true,
+      "image": "lc_8.png"
+    },
+    {
+      "id": 19,
+      "kode": "M-19",
+      "name": "Curry Katsu",
+      "price": 25000,
+      "is_ready": true,
+      "image": "lc_9.png"
+    },
+    {
+      "id": 20,
+      "kode": "M-20",
+      "name": "Vegetarian Set",
+      "price": 30000,
+      "is_ready": true,
+      "image": "lc_2.png"
+    },
+    {
+      "id": 21,
+      "kode": "M-21",
+      "name": "Espresso Coffe",
+      "price": 10000,
+      "is_ready": true,
+      "image": "d_espresso.png"
+    },
+    {
+      "id": 22,
+      "kode": "M-22",
+      "name": "Ice Cream",
+      "price": 10000,
+      "is_ready": true,
+      "image": "d_ice.png"
+    },
+    {
+      "id": 23,
+      "kode": "M-23",
+      "name": "Infus Water",
+      "price": 8000,
+      "is_ready": true,
+      "image": "d_infus.png"
+    },
+    {
+      "id": 24,
+      "kode": "M-24",
+      "name": "Orange Juice",
+      "price": 5000,
+      "is_ready": true,
+      "image": "d_juice.png"
+    },
+    {
+      "id": 25,
+      "kode": "M-25",
+      "name": "Latte Coffe",
+      "price": 15000,
+      "is_ready": true,
+      "image": "d_latte.png"
+    },
+    {
+      "id": 26,
+      "kode": "M-26",
+      "name": "Lemon Tea",
+      "price": 5000,
+      "is_ready": true,
+      "image": "d_lemon.png"
+    },
+    {
+      "id": 27,
+      "kode": "M-27",
+      "name": "Matcha",
+      "price": 8000,
+      "is_ready": true,
+      "image": "d_matcha.png"
+    },
+    {
+      "id": 28,
+      "kode": "M-28",
+      "name": "Milk",
+      "price": 5000,
+      "is_ready": true,
+      "image": "d_milk.png"
+    },
+    {
+      "id": 29,
+      "kode": "M-29",
+      "name": "Milk Tea",
+      "price": 8000,
+      "is_ready": true,
+      "image": "d_milkTea.png"
+    },
+    {
+      "id": 30,
+      "kode": "M-30",
+      "name": "Yogurt",
+      "price": 5000,
+      "is_ready": true,
+      "image": "d_yogurt.png"
+    }
+  ],
+  "baskets": [],
+  "order": [
+    {
+      "name": "Fema",
+      "room": "Lantai 6",
+      "basket": [
+        {
+          "quantity": "3",
+          "type": "Delivery",
+          "note": "satu tanpa buah",
+          "pricePay": 15000,
+          "products": {
+            "id": 28,
+            "kode": "M-28",
+            "name": "Milk",
+            "price": 5000,
+            "is_ready": true,
+            "image": "d_milk.png"
+          },
+          "id": 1
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
