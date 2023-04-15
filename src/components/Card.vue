@@ -1,7 +1,7 @@
 <template>
     <div>
       <div class="img mb-3">
-        <img :src="'img/' + product.image" alt="menu" />
+        <img :src="require(`@/assets/img/` + product.image)" alt="menu" />
       </div>
       <div class="title-menu text-center">
         <h3>{{product.name}}</h3>

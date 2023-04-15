@@ -41,7 +41,7 @@
                 <th scope="row">{{ index + 1 }}</th>
                 <td>
                   <img
-                    :src="'/img/' + bk.products.image"
+                    :src="require(`@/assets/img/` + bk.products.image)"
                     alt="menu"
                     width="200"
                   />

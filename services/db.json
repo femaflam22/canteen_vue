@@ -589,7 +589,37 @@
       "image": "d_yogurt.png"
     }
   ],
-  "baskets": [],
+  "baskets": [
+    {
+      "quantity": "1",
+      "type": "Dine in",
+      "pricePay": 25000,
+      "products": {
+        "id": 6,
+        "kode": "M-06",
+        "name": "Onigiri 5pcs",
+        "price": 25000,
+        "is_ready": true,
+        "image": "bf_6.png"
+      },
+      "id": 1
+    },
+    {
+      "quantity": "1",
+      "type": "Delivery",
+      "note": "pedas",
+      "pricePay": 25000,
+      "products": {
+        "id": 15,
+        "kode": "M-15",
+        "name": "Tteokbokki",
+        "price": 25000,
+        "is_ready": true,
+        "image": "lc_5.png"
+      },
+      "id": 2
+    }
+  ],
   "order": [
     {
       "name": "Fema",
@@ -612,6 +642,43 @@
         }
       ],
       "id": 1
+    },
+    {
+      "name": "Fema",
+      "room": "322",
+      "basket": [
+        {
+          "quantity": "2",
+          "type": "Dine in",
+          "note": "-",
+          "pricePay": 60000,
+          "products": {
+            "id": 2,
+            "kode": "M-02",
+            "name": "Avocado Toast with Egg",
+            "price": 30000,
+            "is_ready": true,
+            "image": "bf_2.png"
+          },
+          "id": 1
+        },
+        {
+          "quantity": "2",
+          "type": "Dine in",
+          "note": "hangat",
+          "pricePay": 16000,
+          "products": {
+            "id": 29,
+            "kode": "M-29",
+            "name": "Milk Tea",
+            "price": 8000,
+            "is_ready": true,
+            "image": "d_milkTea.png"
+          },
+          "id": 2
+        }
+      ],
+      "id": 2
     }
   ]
 }
